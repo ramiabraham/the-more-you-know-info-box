@@ -7,7 +7,7 @@ But hey! It does the trick. use it on your site to call out information. Sometim
 
 ### Screenshot:
 
-![Image](screenshot.jpg?raw=true)
+![Image](screenshot.png?raw=true)
 
 
 ### Usage:
