@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: "The More You Know" info box
+ * Plugin Name: The More You Know info box
  * Plugin URI: https://github.com/ramiabraham/tmyn-info-box-shortcode
  * Description: A very small, very corny plugin. Shows an info box, in which you can specify text. The background is from "The More You Know"; an educational series that was popular in the 80's and 90's. They've since changed their logo, but this one was popular for quite a while. Yep.
  * Version: 0.1
