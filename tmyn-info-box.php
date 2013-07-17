@@ -44,8 +44,8 @@ if ( ! function_exists('the_more_you_know_register_style')) {
 	
 	
 function the_more_you_know_register_style() {
-	wp_register_style( 'tmyn-info-box', plugins_url( 'tmyn-info-box/lib/tmyn-info-box.css' ) );
-	wp_enqueue_style( 'tmyn-info-box' );
+	wp_register_style( 'the-more-you-know-info-box', plugins_url( 'the-more-you-know-info-box/lib/tmyn-info-box.css' ) );
+	wp_enqueue_style( 'the-more-you-know-info-box' );
 }
 
 add_action( 'wp_enqueue_scripts', 'the_more_you_know_register_style' );
