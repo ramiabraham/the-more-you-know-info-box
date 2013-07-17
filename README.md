@@ -15,3 +15,11 @@ But hey! It does the trick. use it on your site to call out information. Sometim
 Shortcode accepts one parameter:
 
 `[tmyn text="Here is your text"]`
+
+### More information:
+
+Original logo: http://www.youtube.com/watch?v=v3rhQc666Sg
+
+History: http://en.wikipedia.org/wiki/The_More_You_Know
+
+Their re-branded site is quite different: http://www.themoreyouknow.com/
