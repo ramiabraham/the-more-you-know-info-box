@@ -24,11 +24,10 @@ if ( ! function_exists('the_more_you_know')) {
 	
 	function the_more_you_know( $atts, $content = null ) {
 	extract( shortcode_atts( array(
-	'type' => 'alert-info', /* alert-info, alert-success, alert-error */
 	'text' => '', 
 	), $atts ) );
 	
-	$output = '<div class="tmyn fade in alert-block alert-'. $type . '"><div class="tmyn-logo-left"></div>';
+	$output = '<div class="tmyn"><div class="tmyn-logo-left"></div>';
 	$output .= '<p>' . $text . '</p></div>';
 	
 	return $output;
